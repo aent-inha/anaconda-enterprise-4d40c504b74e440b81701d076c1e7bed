@@ -1,0 +1,13 @@
+name: Anaconda Py3.11 (v2023.09)
+
+description: Anaconda3 v2023.09 for Python 3.11
+
+packages:
+  - python=3.11
+  - ipykernel
+
+platforms:
+  - linux-64
+
+env_specs:
+  anaconda3_202309_py311: {}
